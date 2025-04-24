@@ -1,0 +1,21 @@
+/* 
+h1{ color: blue;
+    font-size: 40px;
+    background-color:lightgreen;
+    font-style: italic;
+    border: 5px solid red;
+    text-align: center;
+    border-radius: 10px;
+    border-top: 8px dotted black;
+    border-right: 8px double purple;
+    border-left: 8px double pink;
+    border-bottom: 8px dotted orange; */
+
+/* * {color: rgb(53, 108, 51)} */
+/* .name{
+    font-size: 50px;color: red;text-align: center;
+}
+.new{
+    color: aqua;
+} */
+div+ p {color: brown;}
